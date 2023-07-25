@@ -4,15 +4,17 @@
 
 <h3 align="center"> About Me</h3>
 
-> I have 5+ years of Experience in Professional Front End Web Development.
+ I have 5+ years of Experience in Professional Front End Web Development.
 Specializing in modern JavaScript and TypeScript-based front-end and back-end web development tools- React Js, React Native, Vue Js, Redux, Next Js, Express Js and Node Js.
 
-> ----- Hello! Thank you for your time & consideration! -----
+----- Hello! Thank you for your time & consideration! -----
 
-> -- I build single-page applications (SPAs) and progressive web applications (PWAs) with the latest version of React. Can integrate with Material UI, Ant Design, or Bootstrap to give you a sleek, modern-looking web application, along with custom components using CSS modules or styled components. and also support server-side rendering (SSR) and image processing using next js.
+-- I build single-page applications (SPAs) and progressive web applications (PWAs) with the latest version of React. Can integrate with Material UI, Ant Design, or Bootstrap to give you a sleek, modern-looking web application, along with custom components using CSS modules or styled components. and also support server-side rendering (SSR) and image processing using next js.
 My primary goal is to always meet your needs and deadlines.
-> -- Clear and consistent communication. I make myself available during all business hours to provide status updates, answer and ask questions, and discuss the project.
-> -- I follow best practices and my years of experience to design apps architecture clean, scalable, and easy for collaboration, and code reuse.
+
+-- Clear and consistent communication. I make myself available during all business hours to provide status updates, answer and ask questions, and discuss the project.
+ 
+-- I follow best practices and my years of experience to design apps architecture clean, scalable, and easy for collaboration, and code reuse.
 
 ----
 ### Contact Details
