@@ -1,4 +1,4 @@
-<h1 align="center"> Solanki Akshay<h1> <h3 align="right">FUll Stack Web & APP DEVELOPER</h3>
+<h1 align="center"> Solanki Akshay<h1> <h3 align="right">Full Stack Web & APP DEVELOPER</h3>
 
 ---
 
