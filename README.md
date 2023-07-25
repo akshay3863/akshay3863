@@ -69,7 +69,7 @@ Veer Narmad South Gujarat University Surat,Gujarat</p>
 
 ### Projects
 
-1)ANGLE ONE: https://cug.angelone.in/nxt/auth
+1) ANGLE ONE: https://cug.angelone.in/nxt/auth
 TECHNOLOGY USED
 VUE 3 , PINIA, VUETIFY, VUE-ROUTER, LODASH, CHART JS, AXIOS
 DESCRIPTION
