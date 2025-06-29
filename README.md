@@ -4,7 +4,7 @@
 
 <h3 align="center"> About Me</h3>
 
- I have 5+ years of Experience in Professional Front End Web Development.
+ I have 7+ years of Experience in Professional Front End Web Development.
 Specializing in modern JavaScript and TypeScript-based front-end and back-end web development tools- React Js, React Native, Vue Js, Redux, Next Js, Express Js and Node Js.
 
 ----- Hello! Thank you for your time & consideration! -----
