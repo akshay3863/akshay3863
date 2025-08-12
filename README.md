@@ -15,6 +15,15 @@ Whether you need a **dynamic web app**, a **robust API**, or a **cross-platform 
 
 ---
 
+## 📬 Contact Me
+- **Portfolio**: [akshaysolanki.com](https://www.akshaysolanki.com)
+- **Email**: akshaysolanki3863@gmail.com
+- **WhatsApp**: [Message Me](https://wa.me/9106990790?text=Hi%20Akshay!)
+- **Mobile**: +91 9106990790
+- **Location**: India
+
+---
+
 ## 🛠 Tech Stack & Skills
 
 ### 📱 Mobile Development
@@ -40,15 +49,6 @@ Whether you need a **dynamic web app**, a **robust API**, or a **cross-platform 
 ### 🧪 Testing & Performance
 - Jest | Detox | Cypress
 - Flipper, Firebase Crashlytics, App Monitoring
-
----
-
-## 📬 Contact Me
-- **Portfolio**: [akshaysolanki.com](https://www.akshaysolanki.com)
-- **Email**: akshaysolanki3863@gmail.com
-- **WhatsApp**: [Message Me](https://wa.me/9106990790?text=Hi%20Akshay!)
-- **Mobile**: +91 9106990790
-- **Location**: India
 
 ---
 
