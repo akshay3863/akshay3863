@@ -4,17 +4,11 @@
 
 <h3 align="center"> About Me</h3>
 
- I have 7+ years of Experience in Professional Front End Web Development.
-Specializing in modern JavaScript and TypeScript-based front-end and back-end web development tools- React Js, React Native, Vue Js, Redux, Next Js, Express Js and Node Js.
+ Hi there! I’m 𝐀𝐤𝐬𝐡𝐚𝐲, a 𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 with 𝟖+ 𝘆𝗲𝗮𝗿𝘀 𝗼𝗳 𝗲𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲 building high-performance web and mobile applications from concept to deployment. I specialize in crafting scalable, user-centric solutions using modern JavaScript frameworks across the entire stack - 𝐟𝐫𝐨𝐧𝐭𝐞𝐧𝐝, 𝐛𝐚𝐜𝐤𝐞𝐧𝐝, 𝐚𝐧𝐝 𝐦𝐨𝐛𝐢𝐥𝐞.
 
------ Hello! Thank you for your time & consideration! -----
+---Whether you need a 𝐝𝐲𝐧𝐚𝐦𝐢𝐜 𝐰𝐞𝐛 𝐚𝐩𝐩, 𝐚 𝐫𝐨𝐛𝐮𝐬𝐭 𝐀𝐏𝐈, 𝐨𝐫 𝐚 𝐜𝐫𝐨𝐬𝐬-𝐩𝐥𝐚𝐭𝐟𝐨𝐫𝐦 𝐦𝐨𝐛𝐢𝐥𝐞 𝐚𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧, I deliver clean, efficient, and maintainable code tailored to your business goals.---
 
--- I build single-page applications (SPAs) and progressive web applications (PWAs) with the latest version of React. Can integrate with Material UI, Ant Design, or Bootstrap to give you a sleek, modern-looking web application, along with custom components using CSS modules or styled components. and also support server-side rendering (SSR) and image processing using next js.
-My primary goal is to always meet your needs and deadlines.
-
--- Clear and consistent communication. I make myself available during all business hours to provide status updates, answer and ask questions, and discuss the project.
- 
--- I follow best practices and my years of experience to design apps architecture clean, scalable, and easy for collaboration, and code reuse.
+I specialize in 𝐑𝐞𝐚𝐜𝐭.𝐣𝐬 / 𝐍𝐞𝐱𝐭.𝐣𝐬 / 𝐕𝐮𝐞.𝐣𝐬 on the frontend and 𝐍𝐨𝐝𝐞.𝐣𝐬 / 𝐄𝐱𝐩𝐫𝐞𝐬𝐬 / 𝐍𝐞𝐬𝐭𝐉𝐒 on the backend. My cross-platform mobile app expertise includes 𝐑𝐞𝐚𝐜𝐭 𝐍𝐚𝐭𝐢𝐯𝐞, giving me an edge in delivering seamless, high-performance apps for both 𝐢𝐎𝐒 𝐚𝐧𝐝 𝐀𝐧𝐝𝐫𝐨𝐢𝐝.
 
 ----
 ### Contact Details
@@ -65,7 +59,5 @@ I am very available for a quick communication call with you to understand your i
 
 <p>Bachelor of Computer Science
 Veer Narmad South Gujarat University Surat,Gujarat</p>
-
-----
 
 ----
