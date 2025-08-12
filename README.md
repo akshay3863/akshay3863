@@ -19,7 +19,7 @@ My primary goal is to always meet your needs and deadlines.
 ----
 ### Contact Details
 > Portfolio: https://www.akshaysolanki.com
-> Email : akshaysolanki3863@gmail.com 
+> <br>Email : akshaysolanki3863@gmail.com 
 > <br>Mobile : 9106990790
 > <br>Country : India
 > <br>[Drop WhatsApp MSG!](https://wa.me/9106990790?text=)
